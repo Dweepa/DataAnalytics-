@@ -25,7 +25,8 @@ It is very important for prediction to remove all the redundant features of the 
 #### 5. Classifier
 We are using five different classification models for the data and comparing the results with actual values. According to our dataset, the neural network model gave us the best output and therefore we used that for further predictions.
 
-#### 5. Result Analysis
+#### 6. Result Analysis
+In result analysis, we are taking the input from the user, and then using the k- nearest neighbors method to find the data entry which is closest to the data entered by the user. Thus predicting if it is likely for the user to get a certified visa application or not.
 
 ## Execution
 Due to the size constraints, it wasn't possible to upload entire datasets. Thus, we have uploaded the first 5000 rows for each of the class but our actual data is about three times the size. To obtain the most proximate results to our values, run the classifier for class F-1.
