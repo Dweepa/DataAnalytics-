@@ -1,7 +1,7 @@
 
 # Predicting the outcomes of visa applications
 
-This project aims to predict the outcomes of three most popular classes of admission for visa applications, namely H1-B, L-1 and F-1.The work presented determines  how  visa  status  outcome  of  three  most  applied-to visa-categories (H1-B, L1, and F1) are influenced by attributes of user application metadata.
+This project aims to predict the outcomes of three most popular classes of admission for visa applications, namely H1-B, L-1 and F-1. The work presented determines  how  visa  status  outcome  of  three  most  applied-to visa-categories (H1-B, L1, and F1) are influenced by attributes of user application metadata.
 
 ## Getting Started
 
@@ -25,9 +25,10 @@ It is very important for prediction to remove all the redundant features of the 
 #### 5. Classifier
 We are using five different classification models for the data and comparing the results with actual values. According to our dataset, the neural network model gave us the best output and therefore we used that for further predictions.
 
-## Execution
+#### 5. Result Analysis
 
-Due to the size constraints, it wasn't possible to upload the entire dataset for all the three classes. Thus, we have uploaded the first 5000 rows for each of the class but our actual data is about three times the size. To obtain the most proximate results to our values, run the classifier for class F-1.
+## Execution
+Due to the size constraints, it wasn't possible to upload entire datasets. Thus, we have uploaded the first 5000 rows for each of the class but our actual data is about three times the size. To obtain the most proximate results to our values, run the classifier for class F-1.
 Follow the steps of execution denoted by the folder numbers to get the desired output.
 
 ## Authors
